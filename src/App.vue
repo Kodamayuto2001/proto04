@@ -67,9 +67,7 @@
     padding-top: 100px;
 }
 
-h1 {
-    font-size: 100px;
-}
+
 
 .botton {
   position: relative;
@@ -96,6 +94,10 @@ h1 {
   background-color: #8610A8;
   padding: 20px;
   font-size: 40px;
+}
+
+h1 {
+  font-size: 100px;
 }
 
 #app {
